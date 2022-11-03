@@ -1,0 +1,26 @@
+Number of Individuals: i5|
+Individual Number: i0|
+Evaluated: T
+Fitness: d4610777804991718513|1.7983361064891847|i0|
+Tree 0:
+ (* Util Threshold)
+Individual Number: i1|
+Evaluated: T
+Fitness: d4610777804991718513|1.7983361064891847|i0|
+Tree 0:
+ Util
+Individual Number: i2|
+Evaluated: T
+Fitness: d4610777804991718513|1.7983361064891847|i0|
+Tree 0:
+ (* (+ ERC[d4626041242239631360|19.0|] Util) Delay)
+Individual Number: i3|
+Evaluated: T
+Fitness: d4610777804991718513|1.7983361064891847|i0|
+Tree 0:
+ (+ Util (/ Delay Delay))
+Individual Number: i4|
+Evaluated: T
+Fitness: d4612728587745587158|2.462993784733025|i0|
+Tree 0:
+ (/ (+ (+ Delay Delay) (+ ERC[d4629137466983448576|30.0|] Delay)) Util)
